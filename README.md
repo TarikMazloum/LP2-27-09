@@ -2,4 +2,4 @@
 Descrição
 ## autor
 ## captura
-!["alt" - descrição da imagem]
+!["alt" - descrição da imagem](linkurl)
